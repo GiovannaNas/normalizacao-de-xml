@@ -1,0 +1,15 @@
+{
+  "name": "normalize-xml",
+  "version": "1.0.0",
+  "description": "Project to normalize XML",
+  "main": "normalizeXML.js",
+  "scripts": {
+    "start": "node normalizeXML.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
