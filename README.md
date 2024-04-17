@@ -39,6 +39,9 @@ node ./normalizeXML.js
 
 ### Estrutura do projeto
 
+#### Arquivos Entregáveis:
+Os arquivos entregáveis estão dentro da pasta de documentação, e o projeto está dentro de normalize.
+
 1 - Arquivo `normalizeXML.js`
 
 Responsável por ler o XML, executar as funções de normalização e salvar o XML normalizado.
@@ -65,3 +68,5 @@ O arquivo package.json é um componente crucial do projeto, contendo metadados e
 6 - Arquivo `.gitignore`
 
 Arquivos que não devem ser enviados para o Git.
+
+
