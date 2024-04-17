@@ -40,7 +40,7 @@ node ./normalizeXML.js
 ### Estrutura do projeto
 
 #### Arquivos Entregáveis:
-Os arquivos entregáveis estão dentro da pasta de documentação, e o projeto está dentro da pasta normalize.
+Os arquivos entregáveis estão dentro da pasta de documentação, e o projeto está dentro da pasta normalize-xml.
 
 1 - Arquivo `normalizeXML.js`
 
